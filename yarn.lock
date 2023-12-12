@@ -5692,7 +5692,7 @@ __metadata:
   linkType: hard
 
 "protobufjs@npm:^6.11.3":
-  version: 6.11.4
+  version: 7.2.4
   resolution: "protobufjs@npm:6.11.4"
   dependencies:
     "@protobufjs/aspromise": "npm:^1.1.2"
@@ -5716,7 +5716,7 @@ __metadata:
   linkType: hard
 
 "protobufjs@npm:^7.0.0":
-  version: 7.2.2
+  version: 7.2.4
   resolution: "protobufjs@npm:7.2.2"
   dependencies:
     "@protobufjs/aspromise": "npm:^1.1.2"
