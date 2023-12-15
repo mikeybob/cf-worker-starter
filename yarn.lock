@@ -2900,7 +2900,7 @@ __metadata:
   dependencies:
     "@cloudflare/workers-types": "npm:^4.20230215.0"
     dotenv: "npm:^16.0.3"
-    hono: "npm:^3.0.0"
+    hono: "npm:^3.11.7"
     toml: "npm:^3.0.0"
     typescript: "npm:^4.9.5"
     vite: "npm:^4.1.5"
@@ -3483,7 +3483,7 @@ __metadata:
   dependencies:
     "@cloudflare/workers-types": "npm:^4.20230215.0"
     dotenv: "npm:^16.0.3"
-    hono: "npm:^3.0.0"
+    hono: "npm:^3.11.7"
     toml: "npm:^3.0.0"
     typescript: "npm:^4.9.5"
     vite: "npm:^4.1.5"
@@ -4443,10 +4443,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "hono@npm:3.0.0"
-  checksum: 48e4d18119724d4cbafb6a6d37f743a00c224c98e127ee2227c3e9d740693917124a0561fd6eabfab2556603c407287f0b75003df5d6d0af10f5645a7a53f1a7
+"hono@npm:^3.11.7":
+  version: 3.11.7
+  resolution: "hono@npm:3.11.7"
+  checksum: a17810e6d04cf717dabd29046bcc0b9116ad80d2464c893f6fbf62719a3ad85b8e6f8c9cbd7ea468945c5318fdd662d1b983f9b3e628afdf53b1f701f46d9d5b
   languageName: node
   linkType: hard
 

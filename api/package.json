@@ -10,7 +10,7 @@
     "deploy": "node -r dotenv/config $(yarn bin wrangler) publish --no-bundle dist/index.js"
   },
   "dependencies": {
-    "hono": "^3.0.0"
+    "hono": "^3.11.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230215.0",
