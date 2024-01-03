@@ -2905,7 +2905,7 @@ __metadata:
     typescript: "npm:^4.9.5"
     vite: "npm:^4.1.5"
     vitest: "npm:^0.28.5"
-    wrangler: "npm:^2.20.1"
+    wrangler: "npm:^2.20.2"
   languageName: unknown
   linkType: soft
 
@@ -3488,7 +3488,7 @@ __metadata:
     typescript: "npm:^4.9.5"
     vite: "npm:^4.1.5"
     vitest: "npm:^0.28.5"
-    wrangler: "npm:^2.20.1"
+    wrangler: "npm:^2.20.2"
   languageName: unknown
   linkType: soft
 
@@ -6061,7 +6061,7 @@ __metadata:
     prettier: "npm:^2.8.4"
     typescript: "npm:^4.9.5"
     whatwg-fetch: "npm:^3.6.2"
-    wrangler: "npm:^2.20.1"
+    wrangler: "npm:^2.20.2"
     zx: "npm:^7.1.1"
   languageName: unknown
   linkType: soft
@@ -6912,9 +6912,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wrangler@npm:^2.20.1":
-  version: 2.20.1
-  resolution: "wrangler@npm:2.20.1"
+"wrangler@npm:^2.20.2":
+  version: 2.20.2
+  resolution: "wrangler@npm:2.20.2"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.2.0"
     "@esbuild-plugins/node-globals-polyfill": "npm:^0.1.1"
@@ -6938,7 +6938,7 @@ __metadata:
   bin:
     wrangler: bin/wrangler.js
     wrangler2: bin/wrangler.js
-  checksum: 6fb611165f5fe8976ef90d2fce0caa6e565ccb0a2f8d18b3ea9dc920c561bd2b23ff980e1895ad6947f8793cb0dff8985aee13a49c5e4a11faf58bac2c5c6b0d
+  checksum: 2157ecf7c820deb01aa0c239acd9ecc7961a13b9ced42c9a20313698d9d34f56c4f066d977e3791ffabf7c66d734199dc911f5adc802435705d4d318a8438556
   languageName: node
   linkType: hard
 
